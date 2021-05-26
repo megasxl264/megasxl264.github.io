@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why a blog?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am new to the industry, and I am starting this blog mostly as a learning platform for myself; since the best way to learn and prove your knowledge is to present the topic at hand in a way that is easily digestible for others.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In this blog, I will focus on the foundational skills that it takes to get a job in the IT or Programming industry. It will include topics from Front End Development, Back End Development, Networking, Security, Cloud, Operating System Concepts (CLI, VMs, Containers etc.), Linux, and useful Dev Tools/Tips.
 
-What else do you need?
+So, as I learn you learn!
 
-### My story
+Expect updates weekly on Tuesdays and Saturdays!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Portfolio Page
+
+If you want more information about me and what I do check out my portfolio website [Frank Walker](https://www.frankwalker.me/).
