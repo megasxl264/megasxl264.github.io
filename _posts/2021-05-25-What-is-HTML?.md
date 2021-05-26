@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What is HTML?
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: An Introduction to the language
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/html.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [html, development, web]
 ---
 
 HTML is a language that web developers use to add content to, and markup a website – which is why HTML stands for Hyper Text Markup Language. With HTML, we can take human text (the content) - and add markup (special instructions) - to configure that text as something our web browsers can use to display specialized content. Examples of text that have been marked up are ones that display in the form of a list or emphasized.
