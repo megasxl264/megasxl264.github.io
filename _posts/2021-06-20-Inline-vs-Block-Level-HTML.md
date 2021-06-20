@@ -14,15 +14,23 @@ Block level elements always start on a new line – moving horizontally. Block L
 
 Some examples of Block level include:
 
+{% highlight html %}
+
 <article>	<figcaption>	<aside>		<figure> 	<div>	<blockquote>	<footer>
 
 <header>	<hr>	<ol>	<li>	<ul>	<main>	<nav>
+
+{% endhighlight %}
 
 ![image-title-here](/assets/img/block-level.png){:class="img-responsive"}
 
 Some examples of Inline Elements include:
 
+{% highlight html %}
+
 <a> <br> <button> <em> <img> <input> <label> <script> <span>
+
+{% endhighlight %}
 
 ![image-title-here](/assets/img/inline-element.png){:class="img-responsive"}
 
